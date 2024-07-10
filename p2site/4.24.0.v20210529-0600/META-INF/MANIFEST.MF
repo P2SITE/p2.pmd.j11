@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_292 (AdoptOpenJDK)
+
+Name: p2.index
+SHA-256-Digest: 0GAlj2V4QL/KM6RYHCyo8lnZsgEP/IFuwCZW9lntWKE=
+
+Name: artifacts.jar
+SHA-256-Digest: AKQIY0m4kq6vExhDJthL7F54Pkq4SYmIbEpbJD6yHjA=
+
+Name: content.xml.xz
+SHA-256-Digest: lC1cytQX7ODKL0p+M3lxw/yybi2RDF6P2zBB2yCchmA=
+
+Name: content.jar
+SHA-256-Digest: mDXXDHTZo5iP474hzz5oRtQRPxNeA/keCuWedn88BQE=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: QL4J1qwVnDN48VnbhB5XIekpkUKG39ReX+Bka3B6IEQ=
+
+Name: plugins/net.sourceforge.pmd.eclipse.plugin_4.24.0.v20210529-0600
+ .jar
+SHA-256-Digest: kFan2VsUFJ07wHSeQ1msEiUWk5kNrAMR+etT/vJ/BpQ=
+
+Name: features/net.sourceforge.pmd.eclipse_4.24.0.v20210529-0600.jar
+SHA-256-Digest: 1NxwX/gChGb9GxN5vSSzF67wbX8MaIFdzBmHCDE3Gkc=
+

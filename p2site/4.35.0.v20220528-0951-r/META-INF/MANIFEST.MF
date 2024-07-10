@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_332 (Temurin)
+
+Name: artifacts.jar
+SHA-256-Digest: FaI049WAJQtRoQjruJ0l5QST20pHsoHoCv1Mwb2vptg=
+
+Name: p2.index
+SHA-256-Digest: 3JztDajer9tARddZTOoC18Uc3AX1RX/QDCUxbkr2Has=
+
+Name: content.xml.xz
+SHA-256-Digest: EyksY7XeRaohugwvOginw0E/fcNiFMEFoLIm2gN2djc=
+
+Name: content.jar
+SHA-256-Digest: KKeUa/1AbGHIx+zJazn1jjr5CAmiiFVoCz66ECWUusY=
+
+Name: features/net.sourceforge.pmd.eclipse_4.35.0.v20220528-0951-r.jar
+SHA-256-Digest: C7buXQsXdAWogygQB1X5rFZHasdWFelk/9PHWQz2CJ8=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: oPBbrsXbL2t2KZnRq2/28nyeuSyjJHQH62rn3hCMN3s=
+
+Name: plugins/net.sourceforge.pmd.eclipse.plugin_4.35.0.v20220528-0951
+ -r.jar
+SHA-256-Digest: FB2p6innYy5Df7/S726jPJlFFY1Iipng2EEPU3nYazk=
+

@@ -1,0 +1,28 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: mJpL066tL/sUdxc5RohDsMJkBzak3
+ +m5dPQdWrI6/TY=
+SHA-256-Digest-Manifest: njIHLVync8Du7xwIrWSjoak8Aq7YZSiYpkety08W2Ug=
+Created-By: 1.8.0_292 (AdoptOpenJDK)
+
+Name: p2.index
+SHA-256-Digest: tBNgndLI/n3fBwfigFnHTaLBCBFxpJdjpmUc/1KuhX4=
+
+Name: artifacts.jar
+SHA-256-Digest: q4k268BRUZ8ILUg3Zsxhs1G5cKclErYVXcZlYFokFiw=
+
+Name: content.xml.xz
+SHA-256-Digest: QqW4W6EUPUDH5OPY8A34wCABquD+y+p7PQHhbfdnIsA=
+
+Name: content.jar
+SHA-256-Digest: W9xwQxqz1q/Sj3/hAyL4WEW9Nbvh/yZDDElSrXg+vAw=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: /+p4jTck3j5t0jcrohUQOTlNAlDUCODymXhoa8lgFeA=
+
+Name: plugins/net.sourceforge.pmd.eclipse.plugin_4.24.0.v20210529-0600
+ .jar
+SHA-256-Digest: Qel+Q9uUiPWXApc86lqUkMLVFlaA5F9QkJKVR6gszDQ=
+
+Name: features/net.sourceforge.pmd.eclipse_4.24.0.v20210529-0600.jar
+SHA-256-Digest: nuuHJEoGEnhOEqupewu22RLsksyZrI/iyQfwgfc5wNo=
+
